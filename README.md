@@ -11,7 +11,8 @@ The website presents researched product opportunities in a clean card-based layo
 ## 🌐 Live Demo
 
 🔗 **Live Website:**  
-https://shadow-cloud478.github.io/Ideas-for-business/
+[https://shadow-cloud478.github.io/Ideas-for-business/](https://mdnimulhasannirab.github.io/Ideas-for-business/)
+
 ---
 
 ## 📌 Project Overview
